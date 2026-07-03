@@ -114,19 +114,6 @@ entorno con CEF activo.
 
 ---
 
-## Aplicación de la configuración
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/tu-usuario/dmvpn-fase3-ikev2
-
-# Entrar al directorio
-cd dmvpn-fase3-ikev2
-
-# Copiar y pegar Hub.txt en la consola del Hub
-# Copiar y pegar Spoke1.txt en la consola de Spoke1
-# Copiar y pegar Spoke2.txt en la consola de Spoke2
-```
 
 ### Resultado esperado
 ```
